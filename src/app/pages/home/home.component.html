@@ -1,0 +1,41 @@
+<div class="container">
+			
+	<mat-card>
+		<mat-card-header>
+			<mat-card-title>NG6 Material Template</mat-card-title>
+		</mat-card-header>
+		<mat-card-content>
+			<ul>
+				<li><b>Material Design Components Ready!</b> All Material Components can be found in the module 'material.module.ts'</li>
+				<li>Sass supported!</li>
+				<li>Refer Material icons in <a href="https://material.io/icons/">https://material.io/icons/</a></li>
+				<li>Has a UIHelper that shows dialogs, snackbars, bottom sheets and etc. 
+					<a href="https://material.angular.io/components/categories">https://material.angular.io/components/categories</a>
+				</li>
+				<li>Has a Models folder where you can put all your models like classes(User Class, Book Class)</li>
+				<li>Has a Services folder where you can put all your services to call your API and some business logic.</li>
+			</ul>
+		</mat-card-content>
+	</mat-card>
+
+	<mat-card class="example-card">
+		<mat-card-header>
+			<div mat-card-avatar class="example-header-image"></div>
+			<mat-card-title>Shiba Inu</mat-card-title>
+			<mat-card-subtitle>Dog Breed</mat-card-subtitle>
+		</mat-card-header>
+		<img mat-card-image src="https://material.angular.io/assets/img/examples/shiba2.jpg" alt="Photo of a Shiba Inu">
+		<mat-card-content>
+			<p>
+			The Shiba Inu is the smallest of the six original and distinct spitz breeds of dog from Japan.
+			A small, agile dog that copes very well with mountainous terrain, the Shiba Inu was originally
+			bred for hunting.
+			</p>
+		</mat-card-content>
+		<mat-card-actions>
+			<button mat-button (click)="doAction('like')">LIKE</button>
+			<button mat-button (click)="doAction('dislike')">DISLIKE</button>
+		</mat-card-actions>
+	</mat-card>
+
+</div>
