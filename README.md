@@ -2,12 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
->Material Design Components Ready! All Material Components can be found in the module 'material.module.ts'
->Sass supported!
->Refer Material icons in https://material.io/icons/.
->Has a UIHelper that shows dialogs, snackbars, bottom sheets and etc. https://material.angular.io/components/categories
->Has a Models folder where you can put all your models like classes(User Class, Book Class)
->Has a Services folder where you can put all your services to call your API and some business logic.
+>Material Design Components Ready! All Material Components can be found in the module 'material.module.ts' <br/>
+>Sass supported! <br/>
+>Refer Material icons in https://material.io/icons/. <br/>
+>Has a UIHelper that shows dialogs, snackbars, bottom sheets and etc. https://material.angular.io/components/categories <br/>
+>Has a Models folder where you can put all your models like classes(User Class, Book Class) <br/>
+>Has a Services folder where you can put all your services to call your API and some business logic. <br/>
 
 ## Clone the project
 > `git clone https://github.com/mayoljonathan/ng6-material-template.git`
