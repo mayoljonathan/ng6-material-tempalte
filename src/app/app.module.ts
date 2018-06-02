@@ -16,6 +16,9 @@ import { UIHelper } from './shared/helpers/ui.helper';
 // Starting Component
 import { AppComponent } from './app.component';
 
+// Services/Providers
+import { DogService } from './shared/services/';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -30,6 +33,7 @@ import { AppComponent } from './app.component';
   ],
   providers: [
     UIHelper,
+    DogService
   ],
   bootstrap: [AppComponent]
 })

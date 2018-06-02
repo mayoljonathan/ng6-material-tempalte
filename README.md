@@ -5,16 +5,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 >Material Design Components Ready! All Material Components can be found in the module 'material.module.ts' <br/>
 >Sass supported! <br/>
 >Refer Material icons in https://material.io/icons/. <br/>
->Has a UIHelper that shows dialogs, snackbars, bottom sheets and etc. https://material.angular.io/components/categories <br/>
->Has a Models folder where you can put all your models like classes(User Class, Book Class) <br/>
->Has a Services folder where you can put all your services to call your API and some business logic. <br/>
+>UIHelper that shows dialogs, snackbars, bottom sheets and etc. https://material.angular.io/components/categories <br/>
+>Models folder where you can put all your models like classes(User Class, Book Class) <br/>
+>Services folder where you can put all your services to call your API and some business logic. <br/>
 
 ## Clone the project
 > `git clone https://github.com/mayoljonathan/ng6-material-template.git`
 
 ## Install dependencies
-> cd to the project folder
-> `npm install`
+> cd to the project folder then `npm install`
 
 ## Development server
 > Run `npm run start` or `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
